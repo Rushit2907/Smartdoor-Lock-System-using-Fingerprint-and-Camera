@@ -22,18 +22,18 @@ As mentioned we can do Door lock/unlock using 2 ways : <br>
 
 After downloading this project follow the following steps :
 1. **Fingerprint**
-    1. first make connection like shown in the below figure
+    1. First make connection like shown in the below figure
         ![](https://github.com/Rushit2907/Smartdoor-Lock-System-using-Fingerprint-and-Camera/blob/main/Pin%20Diagram.jpg)
     2. Now we need to enrol the figerprint in fingerprint sensor so using enroll.ino file upload the code into arduino and run.
     3. after enrolling the fingerprint use fingerprint_compare program and upload it into arduino uno and upload.
     4. now you can put the finger on the sensor and test it,
 
 2. **Face Recognition**
-    1. same connection but without Fingerprint Sensor.
-    2. in this part first you need an image of your face and put it in the same folder and change the path in the image variable.
-    3. now to check that Face Recognition python file is properly working or not, Comment 6,37 lines and Run and check face recognition is properly working or not.
-    4. after checking this, upload serial_python file into arduino uno.
-    5. remove comment in python file and run python file and Run the Python Code.
+    1. Same connection but without Fingerprint Sensor.
+    2. In this part first you need an image of your face and put it in the same folder and change the path in the image variable.
+    3. Now to check that Face Recognition python file is properly working or not, Comment 6,37 lines and Run and check face recognition is properly working or not.
+    4. After checking this, upload serial_python file into arduino uno.
+    5. Remove comment in python file and run python file and Run the Python Code.
 
 ## Demo:
 #### Fingerprint
