@@ -43,7 +43,7 @@ After downloading this project follow the following steps :
 
 ## Facing any issues?
 
-Feel free to [open an issue](). We are glad to help you. And is you have solution for that issue I will allocate to you. ❤️ 
+Feel free to [open an issue](https://github.com/Rushit2907/Smartdoor-Lock-System-using-Fingerprint-and-Camera/issues/new). We are glad to help you. And is you have solution for that issue I will allocate to you. ❤️ 
 
 If you have any more idea related to this project then please share your idea on rushitajudiya2907@gmail.com. If time permits I will surely do some work on your project.
 
