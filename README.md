@@ -5,16 +5,16 @@ By this project we can do Smartdoor Lock System using Fingerprint and Camera to 
 **Hardware requirements:**
 - Arduino Uno.
 - Fingerprint Sensor.
-- solenoid lock.
+- Solenoid lock.
 - Relay.
-- wires as per your requirements. 
+- Wires as per your requirements. 
 - 12v Adapter.
 
 **Software requirements:**
 - Arduino IDE.
-- arduino Library - Adafruit-Fingerprint-Sensor-Library (uploaded into this folder)
-- pycharm or any prefered Python IDE.
-- python Libraries : face_recognition, cv2, serial, numpy
+- Arduino Library - Adafruit-Fingerprint-Sensor-Library (uploaded into this folder)
+- Pycharm or any prefered Python IDE.
+- Python Libraries : face_recognition, cv2, serial, numpy
 
 As mentioned we can do Door lock/unlock using 2 ways : <br>
 1. Using **Fingerprint**
@@ -25,8 +25,8 @@ After downloading this project follow the following steps :
     1. First make connection like shown in the below figure
         ![](https://github.com/Rushit2907/Smartdoor-Lock-System-using-Fingerprint-and-Camera/blob/main/Pin%20Diagram.jpg)
     2. Now we need to enrol the figerprint in fingerprint sensor so using enroll.ino file upload the code into arduino and run.
-    3. after enrolling the fingerprint use fingerprint_compare program and upload it into arduino uno and upload.
-    4. now you can put the finger on the sensor and test it,
+    3. After enrolling the fingerprint use fingerprint_compare program and upload it into arduino uno and upload.
+    4. Now you can put the finger on the sensor and test it,
 
 2. **Face Recognition**
     1. Same connection but without Fingerprint Sensor.
